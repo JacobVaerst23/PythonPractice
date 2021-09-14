@@ -1,10 +1,18 @@
-#Print 1st movie
-print("Fast and Furious 5")
-#Pront 2nd movie
-print("Fast and Furious 7")
-#Print 3rd movie
-print("Star Wars series")
-#Print 4th movie
-print("Jumanji")
-#Print 5th movie
-print("Suicide Squad")
+def topFiveMovies():
+    #print the first movie
+    print("Fast and Furious 5")
+
+    #print second movie
+    print("Fast and Furious 7")
+
+    #Print third movie
+    print("Star Wars Series")
+
+    #Print fourth movie
+    print("Jumanji")
+
+    #print fifth movie
+    print("Suicide Squad")
+
+print("these are my top five movies")
+topFiveMovies()
