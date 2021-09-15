@@ -1,5 +1,6 @@
 #define the function
 def topFiveMovies():
+    
     #print the first movie!
     print("Fast and Furious 5")
 
@@ -92,3 +93,13 @@ topFiveClasses()
 topFiveCars()
 
 topFiveRestaurants()
+
+#defube a function that outputs your name
+#folloed by "my name is"
+def myNameIs(bob):
+
+    #output string
+    print(bob + "is my name")
+
+#run function
+myNameIs("Jacob")
