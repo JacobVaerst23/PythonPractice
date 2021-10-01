@@ -1,8 +1,13 @@
-def evenOrOdd(x):
-    if x % 2 == 0:
-        return True
+def spellingBee(w):
+    
+    x = 0
 
-    else:
-        return False
+    while x < len(w):
+        print(w[x])
+        x = x + 1
 
-print(evenOrOdd(69420))
+spellingBee("Rat")
+
+
+        
+
